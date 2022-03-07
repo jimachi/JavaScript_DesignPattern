@@ -1,0 +1,26 @@
+{
+  "name": "javascript_designpattern",
+  "version": "1.0.0",
+  "description": "JavaScriptのデザインパターン",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimachi/JavaScript_DesignPattern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimachi/JavaScript_DesignPattern/issues"
+  },
+  "homepage": "https://github.com/jimachi/JavaScript_DesignPattern#readme",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
